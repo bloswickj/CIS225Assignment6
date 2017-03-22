@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MoveManager
+comment1.params=
+comment1.target=MoveManager()
+comment2.params=
+comment2.target=void\ printMoves()
+comment3.params=currentPlayer
+comment3.target=void\ makeMove(int)
+comment4.params=
+comment4.target=int\ checkForWinner()
+comment5.params=
+comment5.target=void\ resetMoves()
+numComments=6
